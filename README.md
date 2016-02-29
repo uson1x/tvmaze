@@ -70,4 +70,4 @@ You're welcome to submit patches and new features!
 
 The MIT License (MIT)
 
-Copyright (c) 2011-2015 Ivan Parfenchuk, <uson1x@gmail.com>
+Copyright (c) 2015-2016 Ivan Parfenchuk, <uson1x@gmail.com>
